@@ -4,9 +4,12 @@
 📞 Call Center Solution – Power BI Report
 
 
-✅ Key Highlights
+
 📈 Interactive dashboard to monitor call center operations
-[Call Center Solution.docx](https://github.com/user-attachments/files/20906518/Call.Center.Solution.docx)
+
+![Call Center Solution_page-0001](https://github.com/user-attachments/assets/9df03791-0e12-4964-941f-9ea1a789a53a)
+
+✅ Key Highlights
 
 👨‍💼 Agent-wise performance tracking
 
